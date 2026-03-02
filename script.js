@@ -43,7 +43,7 @@ function exibirNome(){
 // Ações
 
 btnVerificar.addEventListener("click", () => {
-    if(verficarNome()){
+    if(verificarNome()){
         exibirNome();
     }
 });

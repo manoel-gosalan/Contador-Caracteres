@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a95473e-f744-4fb0-97d3-2546cac3c088" name="Changes" comment="#" />
+    <list default="true" id="3a95473e-f744-4fb0-97d3-2546cac3c088" name="Changes" comment="fix:  Nova Funcionalidade" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,11 +54,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
@@ -100,7 +102,7 @@
       <workItem from="1772437391487" duration="1136000" />
       <workItem from="1772438545238" duration="2737000" />
       <workItem from="1772441340898" duration="1099000" />
-      <workItem from="1772442523913" duration="482000" />
+      <workItem from="1772442523913" duration="898000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Desafio:&#10;Contador de caracteres — exibe em tempo real quantas letras o usuário já digitou no input">
       <option name="closed" value="true" />
@@ -126,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772442733268</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix:  Nova Funcionalidade">
+      <option name="closed" value="true" />
+      <created>1772443384445</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772443384445</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +169,7 @@
     <MESSAGE value="feat: Desafio:&#10;Contador de caracteres — exibe em tempo real quantas letras o usuário já digitou no input" />
     <MESSAGE value="feat: Estilo final da aplicação." />
     <MESSAGE value="#" />
-    <option name="LAST_COMMIT_MESSAGE" value="#" />
+    <MESSAGE value="fix:  Nova Funcionalidade" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix:  Nova Funcionalidade" />
   </component>
 </project>

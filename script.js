@@ -34,6 +34,9 @@ function verificarNome(){
 // Resultado no html
 
 function exibirNome(){
+    // .trim() remove espaços do início e do fim
+    // .replace() remove os espaços do meio e
+    const nomeSemEspacos = nomeInput.value.replace(/\s/g, "");
     divResultado.innerHTML = `
     o seu nome: ${nomeInput.value} <br>
     tem um total de ${nomeInput.value.length} Caracteres. 

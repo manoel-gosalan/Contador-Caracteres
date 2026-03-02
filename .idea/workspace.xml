@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a95473e-f744-4fb0-97d3-2546cac3c088" name="Changes" comment="feat: Estilo final da aplicação." />
+    <list default="true" id="3a95473e-f744-4fb0-97d3-2546cac3c088" name="Changes" comment="#" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="10" />
+    <option name="cachedIndexableFilesCount" value="6" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,18 +24,18 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "manoel-gosalan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;manoel-gosalan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/manoel-gosalan/Contador-Caracteres.git",
-    "accountId": "9a13cced-8984-4cc1-a37f-0dc4c48a188f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/manoel-gosalan/Contador-Caracteres.git&quot;,
+    &quot;accountId&quot;: &quot;9a13cced-8984-4cc1-a37f-0dc4c48a188f&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/script.js" root0="SKIP_INSPECTION" />
@@ -61,6 +61,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
     "ignore_missing_gitignore": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
@@ -99,6 +100,7 @@
       <workItem from="1772437391487" duration="1136000" />
       <workItem from="1772438545238" duration="2737000" />
       <workItem from="1772441340898" duration="1099000" />
+      <workItem from="1772442523913" duration="482000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Desafio:&#10;Contador de caracteres — exibe em tempo real quantas letras o usuário já digitou no input">
       <option name="closed" value="true" />
@@ -116,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772442029427</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="#">
+      <option name="closed" value="true" />
+      <created>1772442733268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772442733268</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Desafio:&#10;Contador de caracteres — exibe em tempo real quantas letras o usuário já digitou no input" />
     <MESSAGE value="feat: Estilo final da aplicação." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Estilo final da aplicação." />
+    <MESSAGE value="#" />
+    <option name="LAST_COMMIT_MESSAGE" value="#" />
   </component>
 </project>
